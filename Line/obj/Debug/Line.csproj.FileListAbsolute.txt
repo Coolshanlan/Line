@@ -1,0 +1,41 @@
+C:\Users\皇宇\Desktop\Line\Line\bin\Debug\Line.exe.config
+C:\Users\皇宇\Desktop\Line\Line\bin\Debug\Line.exe
+C:\Users\皇宇\Desktop\Line\Line\bin\Debug\Line.pdb
+C:\Users\皇宇\Desktop\Line\Line\obj\Debug\Line.csprojResolveAssemblyReference.cache
+C:\Users\皇宇\Desktop\Line\Line\obj\Debug\Line.Form1.resources
+C:\Users\皇宇\Desktop\Line\Line\obj\Debug\Line.Properties.Resources.resources
+C:\Users\皇宇\Desktop\Line\Line\obj\Debug\Line.csproj.GenerateResource.Cache
+C:\Users\皇宇\Desktop\Line\Line\obj\Debug\Line.exe
+C:\Users\皇宇\Desktop\Line\Line\obj\Debug\Line.pdb
+C:\Users\皇宇\Desktop\Line\Line\obj\Debug\Line.Register.resources
+C:\Users\皇宇\Desktop\Line\Line\obj\Debug\Line.Line_Chat.resources
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\bin\Debug\Line.exe.config
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.exe
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.pdb
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\bin\Debug\Line.exe
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\bin\Debug\Line.pdb
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.Line_Chat.resources
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.Properties.Resources.resources
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.Register.resources
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.Sign_In.resources
+D:\Google硬碟\小宇小遊戲\Line\Line\bin\Debug\Line.exe.config
+D:\Google硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.exe
+D:\Google硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.pdb
+D:\Google硬碟\小宇小遊戲\Line\Line\bin\Debug\Line.exe
+D:\Google硬碟\小宇小遊戲\Line\Line\bin\Debug\Line.pdb
+D:\Google硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.Sign_In.resources
+D:\Google硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.Line_Chat.resources
+D:\Google硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.Properties.Resources.resources
+D:\Google硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.Register.resources
+D:\Google硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.Add_Form.resources
+D:\Google硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.Add_Form.resources
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.show_data.resources
+D:\Google 雲端硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.test_show.resources
+D:\Google硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.show_data.resources
+D:\Google硬碟\小宇小遊戲\Line\Line\obj\Debug\Line.test_show.resources
+D:\Google 雲端硬碟\小宇酷炫程式集\小宇小遊戲\Line\Line\bin\Debug\Line.exe.config
+D:\Google 雲端硬碟\小宇酷炫程式集\小宇小遊戲\Line\Line\obj\Debug\Line.exe
+D:\Google 雲端硬碟\小宇酷炫程式集\小宇小遊戲\Line\Line\obj\Debug\Line.pdb
